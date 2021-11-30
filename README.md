@@ -27,3 +27,4 @@ This is the portfolio of all class assignments I have completed in Marketing Cus
    - [A10: Vegas Resorts Text Mining](...)
 11. **Module 11: Use Github to Create Your Assignment Portfolio**
    -[A11: Market Your Customer Data Analytics Skills](...)
+
