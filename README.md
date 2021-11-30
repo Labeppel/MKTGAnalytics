@@ -1,12 +1,14 @@
 # MKTGAnalytics
 This is the portfolio of all class assignments I have completed in Marketing Customer Data Analytics. There are a total of 11 assignments, one for each module. Studying the attractiveness of marketing dynamics through coding.
 
-#<center> Résumé of Lauren Beppel </center>
+
+
+##<center> Résumé of Lauren Beppel </center>##
 -[Résumé](https://colab.research.google.com/drive/1X3JK2SysONBOuLR8azkLOYloPC5BL0Ga#scrollTo=OlyFkazpNGWF)
 
 ## Table of Contents##
 1. **Module 1: Using Colab**
-   - [A1: Markdown CV](https://colab.research.google.com/drive/1X3JK2SysONBOuLR8azkLOYloPC5BL0Ga#scrollTo=OlyFkazpNGWF)
+   - [A1: Markdown CV](...)
 2. **Module 2: Fundamentals Of Programming**
    - [A2: Progrsmming Fundamentals](...)
 3. **Module 3: Working with Data**
