@@ -1,4 +1,4 @@
-# MKTGAnalytics
+# Marketing Analytics Portfolio
 This is the portfolio of all class assignments I have completed in Marketing Customer Data Analytics. There are a total of 11 assignments, one for each module. In this class, we focus on studying the attractiveness of marketing dynamics through coding.
 
 ## Résumé of Lauren Beppel
