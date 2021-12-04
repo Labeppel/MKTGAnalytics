@@ -26,6 +26,5 @@ This is the portfolio of all class assignments I have completed in Marketing Cus
 10. **Module 10: Text Analysis**
    - [A10: Vegas Resorts Text Mining](https://templeu.instructure.com/courses/100008/assignments/1350601/submissions/152451?download=16590373)
 11. **Module 11: Use Github to Create Your Assignment Portfolio**
-
-   -[A11: Market Your Customer Data Analytics Skills](https://github.com/Labeppel/MKTGAnalytics/edit/main/README.md)
+   - [A11: Market Your Customer Data Analytics Skills](https://github.com/Labeppel/MKTGAnalytics/edit/main/README.md)
 
