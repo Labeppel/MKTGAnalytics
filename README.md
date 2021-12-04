@@ -1,5 +1,5 @@
 # MKTGAnalytics
-This is the portfolio of all class assignments I have completed in Marketing Customer Data Analytics. There are a total of 11 assignments, one for each module. Studying the attractiveness of marketing dynamics through coding.
+This is the portfolio of all class assignments I have completed in Marketing Customer Data Analytics. There are a total of 11 assignments, one for each module. In this class, we focus on studying the attractiveness of marketing dynamics through coding.
 
 ## Résumé of Lauren Beppel
 * [Résumé](https://colab.research.google.com/drive/1X3JK2SysONBOuLR8azkLOYloPC5BL0Ga#scrollTo=OlyFkazpNGWF)
@@ -24,8 +24,8 @@ This is the portfolio of all class assignments I have completed in Marketing Cus
 9. **Module 9: Clustering and Segmentation**
    - [A9: Segmentation (retail transactions and behavioral segmentation)](https://templeu.instructure.com/courses/100008/assignments/1350610/submissions/152451?download=16379423)
 10. **Module 10: Text Analysis**
-   - [A10: Vegas Resorts Text Mining](...)
+   - [A10: Vegas Resorts Text Mining](https://templeu.instructure.com/courses/100008/assignments/1350601/submissions/152451?download=16590373)
 11. **Module 11: Use Github to Create Your Assignment Portfolio**
 
-   -[A11: Market Your Customer Data Analytics Skills](...)
+   -[A11: Market Your Customer Data Analytics Skills](https://github.com/Labeppel/MKTGAnalytics/edit/main/README.md)
 
