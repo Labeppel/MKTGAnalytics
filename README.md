@@ -6,9 +6,9 @@ This is the portfolio of all class assignments I have completed in Marketing Cus
 
 ## Table of Contents
 1. **Module 1: Using Colab**
-   - [A1: Markdown CV](https://templeu.instructure.com/courses/100008/assignments/1350602/submissions/152451?download=15112434)
+   - [A1: Markdown CV](https://github.com/Labeppel/MKTGAnalytics/blob/main/A1_Lauren_Beppel.ipynb)
 2. **Module 2: Fundamentals Of Programming**
-   - [A2: Progrsmming Fundamentals](https://templeu.instructure.com/courses/100008/assignments/1350603/submissions/152451?download=15195011)
+   - [A2: Progrsmming Fundamentals]()
 3. **Module 3: Working with Data**
    - [A3: Work With Data Yelp Reviews](https://templeu.instructure.com/courses/100008/assignments/1350604/submissions/152451?download=15470075)
 4. **Module 4: Data Visualization**
