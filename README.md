@@ -8,7 +8,7 @@ This is the portfolio of all class assignments I have completed in Marketing Cus
 1. **Module 1: Using Colab**
    - [A1: Markdown CV](https://github.com/Labeppel/MKTGAnalytics/blob/main/A1_Lauren_Beppel.ipynb)
 2. **Module 2: Fundamentals Of Programming**
-   - [A2: Progrsmming Fundamentals](https://github.com/Labeppel/MKTGAnalytics/blob/main/A2_F2021_programming_fundamentals.ipynb)
+   - [A2: Programming Fundamentals](https://github.com/Labeppel/MKTGAnalytics/blob/main/A2_F2021_programming_fundamentals.ipynb)
 3. **Module 3: Working with Data**
    - [A3: Work With Data Yelp Reviews](https://github.com/Labeppel/MKTGAnalytics/blob/main/Lauren_Beppel_A3_F2021_Yelp_Reviews.ipynb)
 4. **Module 4: Data Visualization**
