@@ -10,21 +10,21 @@ This is the portfolio of all class assignments I have completed in Marketing Cus
 2. **Module 2: Fundamentals Of Programming**
    - [A2: Progrsmming Fundamentals](https://github.com/Labeppel/MKTGAnalytics/blob/main/A2_F2021_programming_fundamentals.ipynb)
 3. **Module 3: Working with Data**
-   - [A3: Work With Data Yelp Reviews]()
+   - [A3: Work With Data Yelp Reviews](https://github.com/Labeppel/MKTGAnalytics/blob/main/Lauren_Beppel_A3_F2021_Yelp_Reviews.ipynb)
 4. **Module 4: Data Visualization**
-   - [A4: DataViz Rent the Runway + Orange Telecom](https://templeu.instructure.com/courses/100008/assignments/1350605/submissions/152451?download=15611059)
+   - [A4: DataViz Rent the Runway + Orange Telecom](https://github.com/Labeppel/MKTGAnalytics/blob/main/Copy_of_A4_F2021_Visualization.ipynb)
 5. **Module 5: Stats Review** 
-   - [A5: Hypothesis Testing - FB ads and Starbucks promos](https://templeu.instructure.com/courses/100008/assignments/1350606/submissions/152451?download=15722219)
+   - [A5: Hypothesis Testing - FB ads and Starbucks promos](https://github.com/Labeppel/MKTGAnalytics/blob/main/Copy_of_A5_F2021_Stats_Review.ipynb)
 6. **Module 6: Regression **
-   - [A6: Regression Analysis](https://templeu.instructure.com/courses/100008/assignments/1350607/submissions/152451?download=15954892)
+   - [A6: Regression Analysis](https://github.com/Labeppel/MKTGAnalytics/blob/main/Copy_of_A6_F2021_Regression_1_ipynb_Lauren_Beppel_&_Jordan_Conrad.ipynb)
 7. **Module 7: Advanced Regression**
-   - [A7: Regression 2](https://templeu.instructure.com/courses/100008/assignments/1350608/submissions/152451?download=16166364)
+   - [A7: Regression 2](https://github.com/Labeppel/MKTGAnalytics/blob/main/A7_F2021_Regression_2_ipynb_Lauren_Beppel.ipynb)
 8. **Module 8: Discrete Outcomes and Logit**
-   - [A8: Logit](https://templeu.instructure.com/courses/100008/assignments/1350609/submissions/152451?download=16270405)
+   - [A8: Logit](https://github.com/Labeppel/MKTGAnalytics/blob/main/Copy_of_A8_F2021_Logit_Lauren_Beppel_&_Jordan_Conrad.ipynb)
 9. **Module 9: Clustering and Segmentation**
-   - [A9: Segmentation (retail transactions and behavioral segmentation)](https://templeu.instructure.com/courses/100008/assignments/1350610/submissions/152451?download=16379423)
+   - [A9: Segmentation (retail transactions and behavioral segmentation)](ttps://github.com/Labeppel/MKTGAnalytics/blob/main/A9_F2021_Segmentation_LAUREN_BEPPEL.ipynb)
 10. **Module 10: Text Analysis**
-   - [A10: Vegas Resorts Text Mining](https://templeu.instructure.com/courses/100008/assignments/1350601/submissions/152451?download=16590373)
+   - [A10: Vegas Resorts Text Mining](https://github.com/Labeppel/MKTGAnalytics/blob/main/A10_Text_Analysis_Tutorial%20(1).ipynb)
 11. **Module 11: Use Github to Create Your Assignment Portfolio**
    - [A11: Market Your Customer Data Analytics Skills](https://github.com/Labeppel/MKTGAnalytics/edit/main/README.md)
 
