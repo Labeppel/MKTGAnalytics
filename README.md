@@ -2,7 +2,7 @@
 This is the portfolio of all class assignments I have completed in Marketing Customer Data Analytics. There are a total of 11 assignments, one for each module. In this class, we focus on studying the attractiveness of marketing dynamics through coding.
 
 ## Résumé of Lauren Beppel
-* [Résumé](https://colab.research.google.com/drive/1X3JK2SysONBOuLR8azkLOYloPC5BL0Ga#scrollTo=OlyFkazpNGWF)
+* [Résumé](https://colab.research.google.com/drive/1X3JK2SysONBOuLR8azkLOYloPC5BL0Ga?usp=sharing)
 
 ## Table of Contents
 1. **Module 1: Using Colab**
