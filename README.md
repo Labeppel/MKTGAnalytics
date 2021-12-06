@@ -22,7 +22,7 @@ This is the portfolio of all class assignments I have completed in Marketing Cus
 8. **Module 8: Discrete Outcomes and Logit**
    - [A8: Logit](https://github.com/Labeppel/MKTGAnalytics/blob/main/Copy_of_A8_F2021_Logit_Lauren_Beppel_&_Jordan_Conrad.ipynb)
 9. **Module 9: Clustering and Segmentation**
-   - [A9: Segmentation (retail transactions and behavioral segmentation)](ttps://github.com/Labeppel/MKTGAnalytics/blob/main/A9_F2021_Segmentation_LAUREN_BEPPEL.ipynb)
+   - [A9: Segmentation (retail transactions and behavioral segmentation)](https://github.com/Labeppel/MKTGAnalytics/blob/main/A9_F2021_Segmentation_LAUREN_BEPPEL.ipynb)
 10. **Module 10: Text Analysis**
    - [A10: Vegas Resorts Text Mining](https://github.com/Labeppel/MKTGAnalytics/blob/main/A10_Text_Analysis_Tutorial%20(1).ipynb)
 11. **Module 11: Use Github to Create Your Assignment Portfolio**
